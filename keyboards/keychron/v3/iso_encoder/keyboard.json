@@ -22,7 +22,7 @@
         "nkro": true,
         "rgb_matrix": true,
         "encoder": true,
-        "dip_switch": true
+        "dip_switch": false
     },
     "layouts": {
         "LAYOUT_tkl_f13_iso": {
